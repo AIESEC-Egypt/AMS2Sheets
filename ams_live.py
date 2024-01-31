@@ -92,7 +92,7 @@ scopes = [
 ]
 
 credentials = Credentials.from_service_account_file(
-    'client_secret_809161608184-4eg7pkc4k59v210neei2iqnb4d0hhsi6.apps.googleusercontent.com.json',
+    '',
     scopes=scopes
 )
 
